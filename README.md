@@ -1,4 +1,4 @@
-# ☕ AI303PC: OBJECT ORIENTED PROGRAMMING USING JAVA
+# <img src="https://githubusercontent.com" alt="Java" height="50"/> ☕ AI303PC: OBJECT ORIENTED PROGRAMMING USING JAVA
 
 ## Course Objectives
 - To Understand the basic object-oriented programming concepts and apply them in problem solving.
