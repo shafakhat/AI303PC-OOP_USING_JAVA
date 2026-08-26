@@ -26,7 +26,7 @@ benefits of inheritance, costs of inheritance. Member access rules, super uses, 
 ## UNIT ‐ III Exception handling and Multithreading
 Concepts of exception handling, benefits of exception handling, Termination or resumptive models, exception hierarchy, usage of try, catch, throw, throws and finally, built in exceptions, creating your own exception subclasses. String handling, exploring java.util. Differences between multithreading and multitasking, thread life cycle, creating threads, thread priorities, synchronizing threads, inter-thread communication, thread groups, and daemon threads. Enumerations, autoboxing, annotations, generics.
 
-## UNIT ‐ IV Event Handling & AWT
+## UNIT ‐ IV Event Handling & Swing
 Events, Event sources, Event classes, Event Listeners, Delegation event model, handling mouse and keyboard events, Adapter classes. layout manager – layout manager types – border, grid, flow, card and grid bag.
 
 Swing - Introduction, limitations of AWT, MVC architecture, components, containers, exploring swing- JFrame and JComponent, JLabel, ImageIcon, JTextField, JButton, JCheckBox, JRadioButton, JList, JComboBox, Tabbed Panes, Scroll Panes, Trees, and Tables. Menu Basics, Menu related classes - JMenuBar, JMenu, JMenuItem, JCheckBoxMenuItem, JRadioButtonMenuItem, JSeparator, creating a popup menu
