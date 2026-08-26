@@ -1,4 +1,4 @@
-# ![Java](https://shields.io) ☕ AI303PC: OBJECT ORIENTED PROGRAMMING USING JAVA
+# <img width="38" height="38" alt="image" src="https://github.com/user-attachments/assets/41612412-4d9f-457d-9db8-7329162549af" /> AI303PC: OBJECT ORIENTED PROGRAMMING USING JAVA
 
 ## Course Objectives
 - To Understand the basic object-oriented programming concepts and apply them in problem solving.
